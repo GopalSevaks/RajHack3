@@ -49,35 +49,6 @@ if($_SESSION['username']=="xxxxxxxx"){
 		<link rel="apple-touch-startup-image" href="img/splash/iphone.png" media="screen and (max-device-width: 320px)">
 
 	</head>
-
-	<!--
-
-	TABLE OF CONTENTS.
-	
-	Use search to find needed section.
-	
-	===================================================================
-	
-	|  01. #CSS Links                |  all CSS links and file paths  |
-	|  02. #FAVICONS                 |  Favicon links and file paths  |
-	|  03. #GOOGLE FONT              |  Google font link              |
-	|  04. #APP SCREEN / ICONS       |  app icons, screen backdrops   |
-	|  05. #BODY                     |  body tag                      |
-	|  06. #HEADER                   |  header tag                    |
-	|  07. #PROJECTS                 |  project lists                 |
-	|  08. #TOGGLE LAYOUT BUTTONS    |  layout buttons and actions    |
-	|  09. #MOBILE                   |  mobile view dropdown          |
-	|  10. #SEARCH                   |  search field                  |
-	|  11. #NAVIGATION               |  left panel & navigation       |
-	|  12. #MAIN PANEL               |  main panel                    |
-	|  13. #MAIN CONTENT             |  content holder                |
-	|  14. #PAGE FOOTER              |  page footer                   |
-	|  15. #SHORTCUT AREA            |  dropdown shortcuts area       |
-	|  16. #PLUGINS                  |  all scripts and plugins       |
-	
-	===================================================================
-	
-	-->
 	
 	<!-- #BODY -->
 	<!-- Possible Classes
