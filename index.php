@@ -292,7 +292,7 @@ if($_SESSION['username']=="xxxxxxxx"){
 		<div class="page-footer">
 			<div class="row">
 				<div class="col-xs-12 col-sm-6">
-					<span class="txt-color-white">GopalSevaks WebApp © 2013-2014</span>
+					<span class="txt-color-white">GopalSevaks WebApp © 2017-2018</span>
 				</div>
 
 				
