@@ -68,7 +68,7 @@
 						<div class="hero">
 
 							<div class="pull-left login-desc-box-l">
-								<h4 class="paragraph-header">Here we are providing you tracking of your animals in a easy way.</h4>
+								<h4 class="paragraph-header">Here we are providing you tracking of your children in a easy way.</h4>
 								<div class="login-app-icons">
 								</div>
 							</div>
